@@ -3,82 +3,68 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: David Kelley
+    tagline: Cloud Engineer
+    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
+    email: d3kelley@gmail.com
+    # phone: 012 345 6789
+    # timezone: America/Cancun Timezone
     citizenship:
     website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
+    linkedin: dkelley
+    # xing: alandoe
     github: sharu725
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    # twitter: '@webjeda'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: David Kelley - Systems Administrator.pdf
 
-    languages:
-      title: Languages
-      info:
-        - idiom: English
-          level: Native
+    # languages:
+    #   title: Languages
+    #   info:
+    #     - idiom: English
+    #       level: Native
 
-        - idiom: French
-          level: Professional
+    #     - idiom: French
+    #       level: Professional
 
-        - idiom: Spanish
-          level: Professional
+    #     - idiom: Spanish
+    #       level: Professional
 
-    interests:
-      title: Interests
-      info:
-        - item: Climbing
-          link:
+    # interests:
+    #   title: Interests
+    #   info:
+    #     - item: Climbing
+    #       link:
 
-        - item: Snowboarding
-          link:
+    #     - item: Snowboarding
+    #       link:
 
-        - item: Cooking
-          link:
+    #     - item: Cooking
+    #       link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Experienced systems administrator with 10+ years of expertise in system administration, networking, security, automation, cloud
+      computing, and monitoring. Skilled in automating processes, implementing cloud solutions, and proactively identifying issues.
+      Committed to staying up-to-date with emerging technologies and delivering exceptional results.
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+      - degree: BSc in Physical Education
+        university: Bridgewater State University
+        time: 2004-2009
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -90,9 +76,9 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Systems Analyst
+        time: 2021 - Present
+        company: Town of Marshfield, Marshfield, MA
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -103,30 +89,36 @@ experiences:
           error sit voluptatem accusantium doloremque laudantium, totam rem
           aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
           architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+            - Installed, configured, and maintained over 50 servers and 200 workstations across the town network.
+            - Monitored system performance and ensured the availability and reliability of the system that includes over 40 layer 3 and layer 2
+            switches and over 50 wireless access points across town.
+            - Managed over 300 user accounts including permissions and access control for the domain, financial, and permitting applications and
+            software.
+            - Troubleshooted and resolved technical issues related to hardware, software, and networking for the end users located throughout
+            the town.
+            - Ensured security and compliance with organizational policies and industry standards using next generation firewalls and next
+            generation endpoint detection and response tools.
+            - Performed routine maintenance tasks, such as patching and updating software and firmware.
+      - role: Site Technology Administrator
+        time: 2009 - 2021
+        company: Carindal Cushing Centers (St. Coletta Day School), Braintree, MA
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
           Cum sociis natoque penatibus et magnis dis parturient montes,
           nascetur ridiculus mus. Donec quam felis, ultricies nec,
           pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+            - Maintained and administered 50 computers within our school program. Managed up to 50 iPads within our school program using
+            Mosyle Mobile Device Management (MDM) solutions.
+            - Developed and managed the computer lab within our program. Performed maintenance on the office equipment(printers, copiers,
+            laminators, etc.) within the school environment. Assisted and solved all staff inquiries that involved audio/visual, password resets,
+            hardware and software failure with staff and program computers.
+            - Educated the end user on proper computer usage. Provided training in office productivity applications such as Microsoft Office
+            (Word, Excel, Powerpoint), Apple products (iPads and Mac OS), and Google products (Docs, Sheets, Slides).
+            - Created and maintained our remote learning program implemented during the COVID-19 pandemic (Google Classrooms). Trained
+            staff, students, and parents on how to use applications such as Google Meet and Zoom for video conferencing.
+            - Assisted the IT department with networking issues that involve Wireless Access Points (WAP), MAC address filtering, switching, and
+            routing.
 projects:
     title: Projects
     intro: >
@@ -153,47 +145,6 @@ projects:
       - title: Delta
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
